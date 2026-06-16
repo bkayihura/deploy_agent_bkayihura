@@ -1,4 +1,4 @@
-i
+
 #!/usr/bin/env bash
 
 if python3 --version 2>&1 | grep -q "^Python"; then
